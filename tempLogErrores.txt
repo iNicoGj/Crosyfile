@@ -1,0 +1,2 @@
+Aquí aparecerá el último mensaje de error del sistema!
+rmdir: failed to remove '': No such file or directory
